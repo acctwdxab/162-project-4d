@@ -46,4 +46,3 @@ def insertion_count(a_list) :
         a_list[j + 1] = key
     return comparisons , exchanges
 
-print ( insertion_count ( list ( range ( 10 , 0 , -1 ) ) ) )
